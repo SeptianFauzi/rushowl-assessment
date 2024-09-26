@@ -63,6 +63,17 @@ function Card() {
         ) : (
           <div className="flex flex-col gap-4">
             <div className="text-center">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic
+              ipsum harum excepturi. Esse animi voluptatum amet labore excepturi
+              ad, facilis tenetur quia repellat asperiores quae! Minima sapiente
+              suscipit quaerat repellendus. Lorem ipsum dolor sit amet
+              consectetur, adipisicing elit. Nihil assumenda nostrum, temporibus
+              voluptatum, ipsa voluptatibus natus consequuntur, numquam aliquam
+              dolor et. Provident, libero at. Consequuntur, autem. Inventore in
+              temporibus ut! Lorem, ipsum dolor sit amet consectetur adipisicing
+              elit. Cum in sequi ad rem omnis nemo eveniet ullam quaerat, eius
+              totam distinctio, error nisi qui? Id, natus! Nulla amet ex
+              distinctio?
               <p className="text-2xl">Welcome Back!</p>
               <p className="text-sm">Please enter your login details</p>
             </div>
